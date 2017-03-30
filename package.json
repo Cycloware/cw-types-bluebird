@@ -1,21 +1,28 @@
 {
-  "name": "@cw-types/bluebird",
-  "version": "3.5.2-a",
-  "contributors": [
-    {
-      "name": "Kavan Shaban",
-      "url": "https://github.com/kavanshaban"
-    },
-    {
-      "name": "Cycloware",
-      "url": "https://github.com/cycloware"
-    }
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Cycloware/cw-types-bluebird.git"
-  },
-  "description": "TypeScript definitions for bluebird",
-  "main": "",
-  "scripts": {}
+   "name": "@cw-types/bluebird",
+   "version": "3.5.2-b",
+   "author": "Kavan J. Shaban (Cycloware, LLC)",
+   "description": "Typescript typings for `bluebird` that force return values for then, catch and other chaining function that make sense to have return values",
+   "homepage": "https://github.com/Cycloware/cw-types-bluebird",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/Cycloware/cw-types-bluebird.git"
+   },
+   "contributors": [
+      {
+         "name": "Kavan Shaban",
+         "url": "https://github.com/kavanshaban"
+      },
+      {
+         "name": "Cycloware",
+         "url": "https://github.com/cycloware"
+      }
+   ],
+   "main": "",
+   "scripts": {},
+   "keywords": [
+      "@types",
+      "bluebird",
+      "typescript"
+   ]
 }

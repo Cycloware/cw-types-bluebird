@@ -1,0 +1,28 @@
+{
+  "name": "@cw-types/bluebird",
+  "version": "3.5.2",
+  "contributors": [
+    {
+      "name": "Kavan Shaban",
+      "url": "https://github.com/kavanshaban"
+    },
+    {
+      "name": "Cycloware",
+      "url": "https://github.com/cycloware"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cycloware/cw-types-bluebird.git"
+  },
+  "dependencies": {},
+  "description": "TypeScript definitions for bluebird",
+  "devDependencies": {},
+  "directories": {},
+  "license": "MIT",
+  "main": "",
+  "optionalDependencies": {},
+  "peerDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {}
+}

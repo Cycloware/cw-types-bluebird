@@ -1,6 +1,6 @@
 {
    "name": "@cw-types/bluebird",
-   "version": "3.5.2-f",
+   "version": "3.5.3",
    "author": "Kavan J. Shaban (Cycloware, LLC)",
    "description": "Typescript typings for `bluebird` that force return values for then, catch and other chaining function that make sense to have return values",
    "homepage": "https://github.com/Cycloware/cw-types-bluebird",

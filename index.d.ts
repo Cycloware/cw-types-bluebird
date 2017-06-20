@@ -113,13 +113,8 @@ declare class Bluebird<R> implements Bluebird.Thenable<R>, Bluebird.Inspection<R
     /**
      * Like `.finally()`, but not called for rejections.
      */
-<<<<<<< HEAD
     tap<U>(onFulFill: (value: R) => U | Bluebird.Thenable<U>): Bluebird<R>;
 
-=======
-    tap<U extends Bluebird.TProperReturn>(onFulFill: (value: R) => Bluebird.Thenable<U>): Bluebird<R>;
-    tap<U extends Bluebird.TProperReturn>(onFulfill: (value: R) => U): Bluebird<R>;
->>>>>>> dd92ec55303913ea8e6f96544fbfe54f30c50a9d
 
     /**
      * Like `.catch()` but rethrows the error
